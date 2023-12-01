@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CurrencyConvertor/static/css/main.2a76e6c3.css",
+    "main.js": "/CurrencyConvertor/static/js/main.25ea3ace.js",
+    "static/js/787.d4aba7ab.chunk.js": "/CurrencyConvertor/static/js/787.d4aba7ab.chunk.js",
+    "static/media/investment-calculator-logo.png": "/CurrencyConvertor/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/CurrencyConvertor/index.html",
+    "main.2a76e6c3.css.map": "/CurrencyConvertor/static/css/main.2a76e6c3.css.map",
+    "main.25ea3ace.js.map": "/CurrencyConvertor/static/js/main.25ea3ace.js.map",
+    "787.d4aba7ab.chunk.js.map": "/CurrencyConvertor/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a76e6c3.css",
+    "static/js/main.25ea3ace.js"
+  ]
+}
